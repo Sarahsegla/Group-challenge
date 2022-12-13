@@ -1,7 +1,12 @@
 # Group-challenge
 
-## Description
-This is my first challenge was created for by me. It contains notes on HTML, CSS, Git, and JavaScript.
+## User Story
+As a developer, I want the code to be semantic, so that it can be accesible to people with disabilities. It can be used for screen readers, braille keyboards and video captions.
+It contains notes on HTML, CSS, Git, and JavaScript.
+Have images and icons.
+
+## Acceptance Criteria
+When I have changed an element I must match it with the CSS selector.
 
 ## Installation
 
