@@ -1,4 +1,4 @@
-# Group-challenge
+# Horision 1st project
 
 ## User Story
 As a developer, I want the code to be semantic, so that it can be accesible to people with disabilities. It can be used for screen readers, braille keyboards and video captions.
