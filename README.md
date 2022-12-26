@@ -12,6 +12,14 @@ When I have changed an element I must match it with the CSS selector.
 
 N/A
 
+## Link 
+https://sarahsegla.github.io/Horiseon-1st-project/
+
+## screenshot
+![horiseon](https://user-images.githubusercontent.com/117079336/209583078-d5025e00-335e-4120-8a47-744bc5be4810.png)
+
+
+
 ## Usage
 
 To use this first, you can review the notes in each section. 
